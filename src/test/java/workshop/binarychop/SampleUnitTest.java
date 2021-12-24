@@ -1,4 +1,4 @@
-package workshop.pokerhands;
+package workshop.binarychop;
 
 import org.junit.jupiter.api.Test;
 

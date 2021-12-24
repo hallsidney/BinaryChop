@@ -1,13 +1,14 @@
-package workshop.pokerhands;
+package workshop.binarychop;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PokerHandsApplication {
+public class BinaryChopApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PokerHandsApplication.class, args);
+		SpringApplication.run(BinaryChopApplication.class, args);
 	}
 
 }
+
